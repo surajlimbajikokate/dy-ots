@@ -10,7 +10,6 @@
                     </div>
                 </div>
             </div>
-
         </header>
         <section class="section-padding">
             <div class="container content">
