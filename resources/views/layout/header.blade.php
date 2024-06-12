@@ -77,10 +77,10 @@
                                    OrianaTech</a>
                                <a class="dropdown-item" href="{{ url('/team') }}" class="subnav_title">Team</a>
 
-                               <a class="dropdown-item" href=" /pages/why-us.html" class="subnav_title">Why Us</a>
+                               <a class="dropdown-item" href="{{ url('/why-us') }}" class="subnav_title">Why Us</a>
                                <div class="dropdown-divider"></div>
-                               <a class="dropdown-item" href="/pages/careers.html" class="subnav_title">Careers</a>
-                               <a class="dropdown-item" href="http://orianatechsolutions.com/team" class="subnav_title">Employee Login</a>
+                               <a class="dropdown-item" href="{{ url('/careers') }}" class="subnav_title">Careers</a>
+                               <a class="dropdown-item" href="{{ url('https://employee.orianatechsolutions.com') }}" target="_blank" class="subnav_title">Employee Login</a>
                            </div>
                        </li>
                        <li class="nav-item dropdown megamenu-fw">

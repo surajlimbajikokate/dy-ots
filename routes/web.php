@@ -13,3 +13,11 @@ Route::get('/about-ots', function () {
 Route::get('/team', function () {
     return view('pages.team');
 });
+
+Route::get('/why-us', function () {
+    return view('pages.why-us');
+});
+
+Route::get('/careers', function () {
+    return view('pages.careers');
+});
