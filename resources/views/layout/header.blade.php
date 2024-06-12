@@ -73,7 +73,7 @@
                                Company
                            </a>
                            <div class="dropdown-menu col-menu" aria-labelledby="navbarDropdown">
-                               <a class="dropdown-item" href="/pages/about-ots.html" class="subnav_title">About
+                               <a class="dropdown-item" href="{{ url('/about-ots') }}" class="subnav_title">About
                                    OrianaTech</a>
                                <a class="dropdown-item" href="/pages/team.html" class="subnav_title">Team</a>
 
