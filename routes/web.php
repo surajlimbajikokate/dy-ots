@@ -21,3 +21,7 @@ Route::get('/why-us', function () {
 Route::get('/careers', function () {
     return view('pages.careers');
 });
+
+Route::get('/prototypes', function () {
+    return view('pages.prototypes');
+});

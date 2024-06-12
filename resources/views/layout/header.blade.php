@@ -120,7 +120,7 @@
                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
                                            <h3 class="title"><a href="#">UI/UX Design</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" /pages/prototypes.html" class="subnav_title">Prototypes</a>
+                                               <li><a href="{{ url('/prototypes') }}" class="subnav_title">Prototypes</a>
                                                </li>
                                                <li><a href=" /pages/wireframe-design.html" class="subnav_title">Wireframe
                                                        Design</a></li>
