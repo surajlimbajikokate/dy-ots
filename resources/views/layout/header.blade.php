@@ -76,8 +76,7 @@
                                <a class="dropdown-item" href="/pages/about-ots.html" class="subnav_title">About
                                    OrianaTech</a>
                                <a class="dropdown-item" href="/pages/team.html" class="subnav_title">Team</a>
-                               <!-- <a class="dropdown-item" href="#" class="subnav_title">Our Culture</a> -->
-                               <!-- <a class="dropdown-item" href="#" class="subnav_title">Who we are</a> -->
+
                                <a class="dropdown-item" href=" /pages/why-us.html" class="subnav_title">Why Us</a>
                                <div class="dropdown-divider"></div>
                                <a class="dropdown-item" href="/pages/careers.html" class="subnav_title">Careers</a>
