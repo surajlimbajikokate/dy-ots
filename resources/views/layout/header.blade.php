@@ -51,7 +51,7 @@
             <!--Nav Bar-->
        <nav id="Top_bar" class="navbar navbar-expand-lg navbar-light megamenu main-header">
            <div class="container">
-               <a class="navbar-brand axat-logo" href="../otsfinal/index.html">
+               <a class="navbar-brand axat-logo" href="{{ url('/') }}">
                    <img class="axatlogo-white lazyload" src="/assets/images/whitelogo.png" alt="" />
                    <img class="axatlogo-color lazyload" src="/assets/images/colorlogo.png" alt="" />
                </a>
@@ -75,7 +75,7 @@
                            <div class="dropdown-menu col-menu" aria-labelledby="navbarDropdown">
                                <a class="dropdown-item" href="{{ url('/about-ots') }}" class="subnav_title">About
                                    OrianaTech</a>
-                               <a class="dropdown-item" href="/pages/team.html" class="subnav_title">Team</a>
+                               <a class="dropdown-item" href="{{ url('/team') }}" class="subnav_title">Team</a>
 
                                <a class="dropdown-item" href=" /pages/why-us.html" class="subnav_title">Why Us</a>
                                <div class="dropdown-divider"></div>
