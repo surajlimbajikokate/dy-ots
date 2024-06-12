@@ -31,7 +31,7 @@
                         </div>
                         <div class="col-lg-6">
                             <img src="../assets/images/Sai Empire - Pune__15570082.jpg" alt="OrianaTech OFFICE"
-                                class="img-fluid" style="margin-top: 30%;">
+                                class="img-fluid" style="margin-top: 10%;">
                         </div>
                     </div>
                 </div>

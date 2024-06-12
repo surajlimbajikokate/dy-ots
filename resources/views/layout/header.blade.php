@@ -90,12 +90,12 @@
                                <li>
                                    <div class="row">
                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                           <h3 class="title"><a href="../otsfinal/pages/web&softwaredeve.html">Web & Software
+                                           <h3 class="title"><a href="{{ url('/web&softwaredeve') }}">Web & Software
                                                    Development</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href="/pages/custom-website-development.html"
+                                               <li><a href="{{ url('/customwebsitedevelopment') }}"
                                                        class="subnav_title">Custom Website Development</a></li>
-                                               <li><a href=" /pages/webportals-cms.html" class="subnav_title">Web Portals and
+                                               <li><a href="{{ url('/webportals-cms')}}" class="subnav_title">Web Portals and
                                                        CMS Development</a></li>
                                                <li><a href=" /pages/ecommerce-development.html"
                                                        class="subnav_title">ECommerce Website Development</a></li>
@@ -135,13 +135,13 @@
                                            <h3 class="title"><a href=" /pages/mobile-apps-development.html">Mobile App
                                                    development</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" /pages/android-app-development.html"
+                                               <li><a href="{{ url('/android-app-development') }}"
                                                        class="subnav_title">Android app development</a></li>
                                                <li><a href=" /pages/android-app-development.html" class="subnav_title">iOS
                                                        app development</a></li>
                                                <li><a href=" /pages/ipad-app-development.html" class="subnav_title">iPad
                                                        app development</a></li>
-                                               <li><a href=" /pages/apple-watch-app-development.html"
+                                               <li><a href="{{ url('/apple-watch-app-development') }}"
                                                        class="subnav_title">Apple Watch App Development</a></li>
                                            </ul>
 
@@ -159,19 +159,19 @@
                                            </ul>
                                                 <hr class="mt-3 mb-3" />
                                                 <div class="box-icon-link">
-                                                    <a href=" /pages/cloud-solutions.html"><i class="iconentypo-newspaper icon-3x"></i> CLOUD
+                                                    <a href="{{ url('/cloud-solutions') }}"><i class="iconentypo-newspaper icon-3x"></i> CLOUD
                                                         SOLUTIONS</a>
                                                 </div>
                                                 <div class="box-icon-link">
-                                                    <a href=" /pages/augmented-reality.html"><i class="iconentypo-newspaper icon-3x"></i> AUGMENTED
+                                                    <a href="{{ url('/augmented-reality') }}"><i class="iconentypo-newspaper icon-3x"></i> AUGMENTED
                                                         REALITY</a>
                                                 </div>
                                                 <div class="box-icon-link">
-                                                    <a href="/pages/crypto-and-blockchain-development.html"><i class="iconentypo-newspaper icon-3x"></i>BLOCK
+                                                    <a href="{{ url('/blockchain') }}"><i class="iconentypo-newspaper icon-3x"></i>BLOCK
                                                         CHAIN DEVELOPMENT</a>
                                                 </div>
                                                 <div class="box-icon-link">
-                                                    <a href=" /pages/artificial-intelligence-and-machine-learning.html"><i class="iconentypo-newspaper icon-3x"></i> ARTIFICIAL
+                                                    <a href="{{ url('/artificial-intelligence-and-machine-learning') }}"><i class="iconentypo-newspaper icon-3x"></i> ARTIFICIAL
                                                         INTELLIGENCE & MACHINE LEARNING</a>
                                                 </div>
                                             </div>

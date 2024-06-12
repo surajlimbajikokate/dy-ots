@@ -73,7 +73,7 @@
             <div class="container">
                <div class="row">
                 <div class="col-lg-12 arrow-active">
-                    <p style="font-size: large; ">At OrienaTech Solution Private Limited, we specialize in delivering high-quality prototype web design services tailored to meet your business needs. Our comprehensive approach ensures a seamless transition from concept to development, providing you with a clear vision of your final website. </p>
+                    <p>At OrienaTech Solution Private Limited, we specialize in delivering high-quality prototype web design services tailored to meet your business needs. Our comprehensive approach ensures a seamless transition from concept to development, providing you with a clear vision of your final website. </p>
 
                 </div>
             </div>

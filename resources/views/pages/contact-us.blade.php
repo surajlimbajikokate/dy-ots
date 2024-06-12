@@ -1,246 +1,10 @@
-<!doctype html>
-<html lang="en">
- 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="DC.title" content="OrianaTech">
-    <meta name="geo.region" content="IN-MH">
-    <meta name="geo.placename" content="Pune">
-    <meta name="geo.position" content="18.5597742;73.7875218">
-    <meta name="ICBM" content="18.5597742,73.7875218">
-    <meta name="keywords" content="Orianatech is a versatile software development company...">
-    <meta name="description" content="Orianatech is a dynamic and innovative software development company...">
-    <meta name="author" content="OrianaTech Solutions Private Limited">
-    <title>OrianaTech- Contact Us</title>    <!-- CSS FILES -->
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" media="all">
-    <link rel="preload" href="/assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="stylesheet" href="/assets/css/menu.css" media="all">
-    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" media="all">
-    <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css" media="all">
-    <link rel="stylesheet" href="/assets/css/font-icon.css" media="all">
-    <link rel="stylesheet" href="/assets/css/animate.css" media="all">
-    <link rel="stylesheet" href="/assets/css/lightbox.css" media="all">
-    <link rel="stylesheet" href="/assets/css/aos.css" media="all">
-    <link rel="stylesheet" href="/assets/css/flickity.min.css" media="all">
-    <link rel="icon" type="image/png" href="/assets/images/fav.png">
-    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&amp;display=swap" rel="stylesheet">
-    <script src="/assets/js/jquery.js" defer></script>
-    <script src="/assets/js/popper.min.js" defer></script>
-    <script src="/assets/js/bootstrap.min.js" defer></script>
-    <script src="/assets/js/isotope.pkgd.min.js" defer></script>
-    <script src="/assets/js/masonry.pkgd.js" defer></script>
-    <script src="/assets/js/owl.carousel.min.js" defer></script>
-    <script src="/assets/js/particles.min.js" defer></script>
-    <script src="/assets/js/animated.headline.js" defer></script>
-    <script src="/assets/js/flickity.pkgd.min.js" defer></script>
-    <script src="/assets/js/lazysizes.min.js" defer></script>
-    <script src="/assets/js/lightbox.js" defer></script>
-    <script src="/assets/js/aos.js" defer></script>
-    <script src="/assets/js/jquery.counterup.min.js" defer></script>
-    <script src="/assets/js/scripts.js" defer></script>
-    <script src="/assets/js/api.js" defer></script>
-</head>
-  <body>
-	
-    <div class="axat-wrap">
-       <header class="is-transparent" id="header">
-         <!-- nav bar start -->
-         <nav id="Top_bar" class="navbar navbar-expand-lg navbar-light megamenu main-header">
-            <div class="container">
-                <a class="navbar-brand axat-logo" href="/index.html">
-                    <img class="axatlogo-white lazyload" src="/assets/images/whitelogo.png" alt="" />
-                    <img class="axatlogo-color lazyload" src="/assets/images/colorlogo.png" alt="" />
-                </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse justify-content-end link" id="navbarSupportedContent">
-                    <div class="toggle-btn">
-                        <span class="border-icon"></span>
-                        <span class="border-icon"></span>
-                        <span class="border-icon"></span>
-                    </div>
-                    <ul class="navbar-nav menu">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Company
-                            </a>
-                            <div class="dropdown-menu col-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item subnav_title" href="pages/about-ots.html">About
-                                    OrianaTech</a>
-                                <a class="dropdown-item" href="pages/team.html" class="subnav_title">Team</a>
-        
-                                <a class="dropdown-item" href="why-us.html" class="subnav_title">Why Us</a>
-                                <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#" class="subnav_title">Careers</a>
-                                <a class="dropdown-item" href="https://orianatechsolutions.com/team"
-                                    class="subnav_title">Employee Login</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
-                                aria-expanded="false" class="subnav_title">Services <span class="caret"></span></a>
-                            <ul class="dropdown-menu megamenu-content" role="menu">
-                                <li>
-                                    <div class="row">
-                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                            <h3 class="title"><a href="pages/web&softwaredeve.html">Web & Software
-                                                    Development</a></h3>
-                                            <ul class="sub-menu">
-                                                <li><a href="pages/custom-website-development.html" class="subnav_title">Custom Website Development</a>
-                                                </li>
-                                                <li><a href="pages/webportals-cms.html" class="subnav_title">Web Portals and
-                                                        CMS Development</a></li>
-                                                <li><a href="pages/ecommerce-development.html" class="subnav_title">ECommerce Website
-                                                        Development</a></li>
-        
-                                                <li><a href="pages/custom-crm-software-development.html" class="subnav_title">Custom CRM Software
-                                                        Development</a>
-                                                </li>
-                                                <li><a href="pages/erp-development.html" class="subnav_title">ERP
-                                                        Development</a></li>
-                                                <li><a href="pages/custom-software-development.html" class="subnav_title">Custom Software Development</a>
-                                                </li>
-                                                <li><a href="pages/database-development.html" class="subnav_title">Database Development</a></li>
-                                                <li><a href="pages/document-management-system-development.html" class="subnav_title">Document Management System
-                                                        Development</a></li>
-                                                <li><a href="pages/saas-application-development.html" class="subnav_title">SaaS Application
-                                                        Development</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                            <h3 class="title"><a href="#">UI/UX Design</a></h3>
-                                            <ul class="sub-menu">
-                                                <li><a href="pages/prototypes.html" class="subnav_title">Prototypes</a>
-                                                </li>
-                                                <li><a href="pages/wireframe-design.html" class="subnav_title">Wireframe
-                                                        Design</a></li>
-                                                <li><a href="pages/website-design.html" class="subnav_title">Website
-                                                        Design</a></li>
-                                                <li><a href="pages/mobile-app-design.html" class="subnav_title">Mobile App
-                                                        Design</a></li>
-                                                <li><a href="pages/graphic-designing.html" class="subnav_title">Graphic
-                                                        Design</a></li>
-                                            </ul>
-                                            <hr class="mt-3 mb-3" />
-                                            <h3 class="title"><a href="pages/mobile-apps-development.html">Mobile App
-                                                    development</a></h3>
-                                            <ul class="sub-menu">
-                                                <li><a href="pages/android-app-development.html" class="subnav_title">Android app development</a>
-                                                </li>
-                                                <li><a href="pages/iphone-app-development.html" class="subnav_title">iOS
-                                                        app development</a></li>
-                                                <li><a href="pages/ipad-app-development.html" class="subnav_title">iPad
-                                                        app development</a></li>
-                                                <li><a href="pages/apple-watch-app-development.html" class="subnav_title">Apple Watch App Development</a>
-                                                </li>
-                                            </ul>
-        
-                                        </div>
-                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                            <h3 class="title"><a href="pages/digital-marketing-services.html">Digital
-                                                    Marketing Services</a></h3>
-                                            <ul class="sub-menu">
-                                                <li><a href="pages/seo-search-engine-optimization.html" class="subnav_title">Search Engine Optimisation
-                                                        (SEO)</a>
-                                                </li>
-        
-                                                <li><a href="pages/seo-packages.html" class="subnav_title">SEO
-                                                        Packages</a></li>
-                                            </ul>
-                                            <hr class="mt-3 mb-3" />
-                                            <div class="box-icon-link">
-                                                <a href="pages/cloud-solutions.html"><i class="iconentypo-newspaper icon-3x"></i> CLOUD
-                                                    SOLUTIONS</a>
-                                            </div>
-                                            <div class="box-icon-link">
-                                                <a href="pages/augmented-reality.html"><i class="iconentypo-newspaper icon-3x"></i> AUGMENTED
-                                                    REALITY</a>
-                                            </div>
-                                            <div class="box-icon-link">
-                                                <a href="#"><i class="iconentypo-newspaper icon-3x"></i>BLOCK
-                                                    CHAIN DEVELOPMENT</a>
-                                            </div>
-                                            <div class="box-icon-link">
-                                                <a href="pages/artificial-intelligence-and-machine-learning.html"><i class="iconentypo-newspaper icon-3x"></i> ARTIFICIAL
-                                                    INTELLIGENCE & MACHINE LEARNING</a>
-                                            </div>
-                                        </div>
-                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6	">
-                                            <h3 class="title"><a href="pages/hire-dedicated-resource.html">HIRE DEDICATED
-                                                    RESOURCES</a></h3>
-                                            <ul class="sub-menu">
-                                                <li><a href="#" class="subnav_title">Hire WordPress Developer</a>
-                                                </li>
-                                                <li><a href="#" class="subnav_title">Hire Laravel Developer</a></li>
-        
-                                                <li><a href="#" class="subnav_title">Hire SMO
-                                                        Specialist</a></li>
-                                                <li><a href="#" class="subnav_title">Hire PHP Developer</a></li>
-                                                <li><a href="#" class="subnav_title">Hire Python Developer</a></li>
-                                                <li><a href="#" class="subnav_title">Hire
-                                                        Web Designer</a></li>
-        
-                                                <li><a href="#" class="subnav_title">Hire Angular Developer</a></li>
-                                                <li><a href="#" class="subnav_title">Hire Android App Developer</a>
-                                                </li>
-                                                <li><a href="#" class="subnav_title">Hire App
-                                                        Designer</a></li>
-                                                <li><a href="#" class="subnav_title">Hire Java
-                                                        Developer</a></li>
-                                                <li><a href="#" class="subnav_title">Hire ReactJS Developer</a></li>
-                                                <li><a href="#" class="subnav_title">Hire
-                                                        iOS App Developer</a></li>
-        
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        <li class="nav-item">
-        
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Products
-                            </a>
-                            <div class="dropdown-menu col-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="#" class="subnav_title">Smart Campus
-                                </a>
-                                <a class="dropdown-item" href="#" class="subnav_title">On Track Services</a>
-                                <a class="dropdown-item" href="https://taskmanagement.orianatechsolutions.com"
-                                    class="subnav_title">Task Management System</a>
-                                <a class="dropdown-item" href="#" class="subnav_title">Hotel Managment System</a>
-                                <a class="dropdown-item" href="https://advocate.orianatechsolutions.com"
-                                    class="subnav_title">Advocate Solutions</a>
-                                <a class="dropdown-item" href="#" class="subnav_title">Inventory Managments</a>
-                                <a class="dropdown-item" href="#" class="subnav_title">CMS & ERPs</a>
-                                <a class="dropdown-item" href="#" class="subnav_title">Mobile Applications</a>
-                                <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#" class="subnav_title">Many More..</a>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link page-scroll" href="#" class="subnav_title">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link page-scroll" href="pages/contact-us.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-                <ul class="right_nav form-inline my-2 my-lg-0">
-                    <li><a href="#"><button type="submit" class="btn btn-lg btn-grad" data-toggle="modal">Get a
-                                Quote</button></a></li>
-                </ul>
-            </div>
-        </nav>
-        <!-- nav bar end -->
-            <div id="particles-js"></div> 
-              
+@extends('layout.main')
+
+
+@section('main-content')
+
+<div id="particles-js"></div>
+
   <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
@@ -252,28 +16,15 @@
 
         <section class="section-padding bg-grey" style="padding: 80px 0;">
             <div class="container">
-                
+
                 <div class="row align-items-center">
 
                     <div class="col-lg-3 firms" style="background: #29bdca;">
                     <div class="p-3">
                         <div class="platform-sec">
-                            <h2 class="text-white mt-3">RATED IN TOP TECH FIRMS</h2> 
+                            <h2 class="text-white mt-3">RATED IN TOP TECH FIRMS</h2>
                             <hr>
-                            <!-- <div class="row">
-                                <div class="col-md-12 col-6">
-                                    <div class="rating-platform text-center">
-                                        <img class="img-fluid" src="/assets/images/clutch11.png" alt="">
-                                        <p>5/5</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-6">
-                                    <div class="rating-platform text-center">
-                                        <img class="img-fluid" src="/assets/images/upwork.png" alt="">
-                                        <p>4.9/5</p>
-                                    </div>
-                                </div>
-                            </div> -->
+
 
                         </div>
                     </div>
@@ -584,9 +335,9 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                    	
+
                                      <div class="g-recaptcha" data-sitekey="" ></div>
-                              
+
                           </div>
                                 </div>
                                 <br>
@@ -626,7 +377,7 @@
                             <h6>Contact Info</h6>
                             <p><span>Phone</span> <a href="tel:">...</a></p>
                             <p><span>Email:</span> <a href="mailto:info@orianatechsolutions.com">info@orianatechsolutions.com</a></p>
-               
+
                         </div></div>
                     </div>
                     </div>
@@ -635,103 +386,6 @@
         </section>
         <section class="mapbox">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.3191281953923!2d73.78765577501407!3d18.559645882541506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfd67a5a46b1%3A0x50cabb60ad222804!2sBootstart%20CoWork%20Sai%20Empire%20Baner!5e0!3m2!1sen!2sin!4v1710690763780!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            
-        </section>
 
-        
-        <script src='/assets/js/api.js' defer="defer"></script>
-        <footer class="main-footer section-padding">
-            <script src='../www.google.com/recaptcha/api.js' defer="defer"></script>
-            <footer class="main-footer pt-5">
-                <div class="container content">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6">
-                            <img src="../assets/images/colorlogo.png" style="max-width: 150px;" alt="OrianaTech">
-                            <p class="mt-3">OrianaTech is an IT company providing Technical Consultancy Service to the
-                                clients all over the world. </p>
-                            <a href="https://www.dmca.com/r/9gl6mgj" title="DMCA.com Protection Status"
-                                class="dmca-badge" target="_blank">
-                                <img src="../assets/images/dmca_logo.png" class="img-fluid" style="width:80px;"
-                                    alt="DMCA.com Protection Status" />
-                            </a>
-                        </div>
-                        <div class="col-md-6 col-sm-6">
-                            <h3 class="widget-title">Services</h3>
-                            <ul class="footer-custom-menu">
-                                <li><a href="../pages/web&softwaredeve.html">Web & Software Development</a></li>
-    
-                                <li><a href="../pages/mobile-apps-development.html">Mobile App Development</a></li>
-                                <li><a href="../pages/digital-marketing-services.html">Digital Marketing Services</a></li>
-                                <li><a href="../pages/cloud-solutions.html">Cloud Solutions</a></li>
-                                <li><a href="../pages/augmented-reality.html">Augmented Reality</a></li>
-    
-                                <li><a href="../pages/ui-ux-design.html">UI/UX Design</a></li>
-                                <!-- <li><a href="#">Crypto & Block Chain
-                                        Development</a></li> -->
-                                <li><a href="#">Sitemap</a></li>
-                                <li><a href="../pages/artificial-intelligence-and-machine-learning.html">Artificial Intelligence
-                                        & Machine Learning</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <h3 class="widget-title">Connect With US</h3>
-                            <div class="subscribe-widget">
-                                <h5>Subscribe to Get Updated</h5>
-                                <form action="https://orianatechsolutions.com/save-subscriber" method="post"
-                                    class="newsletter">
-                                    <input type="hidden" name="_token" value=""><input type="text" name="semail"
-                                        placeholder="Enter email address" required="required">
-                                    <button type="submit"><i class="far fa-paper-plane"></i></button>
-                                </form>
-                            </div>
-                            <ul class="social-icon mb-25 mt-4">
-                                <li><a href="https://www.facebook.com/" target="_blank"><i
-                                            class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li><a href="https://www.linkedin.com" target="_blank"><i
-                                            class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="https://in.pinterest.com/" target="_blank"><i
-                                            class="fab fa-pinterest-p"></i></a></li>
-                                <li><a href="https://plus.google.com" target="_blank"><i
-                                            class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="https://www.orianatechsolutions.com/rss.xml" target="_blank"><i
-                                            class="fas fa-rss"></i></a></li>
-                            </ul>
-                        </div>
-    
-                    </div>
-    
-                </div>
-    
-                <hr style="margin-bottom:10px;">
-                <div class="container ">
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <p style="text-align:center; color:gray;">2024 © OrianaTech Solutions Pvt. Ltd.</p>
-                        </div>
-                    </div>
-    
-                </div>
-           
-    
-    
-    
-            <script src="../assets/js/jquery.js" defer></script>
-            <script src="../assets/js/popper.min.js" integrity="" crossorigin="anonymous" defer></script>
-            <script src="../assets/js/bootstrap.min.js" defer></script>
-            <script src="../assets/js/isotope.pkgd.min.js" defer></script>
-            <script src="../assets/js/masonry.pkgd.js" defer></script>
-            <script src="../assets/js/owl.carousel.min.js" defer></script>
-            <script src="../assets/js/particles.min.js" defer></script>
-            <script src="../assets/js/animated.headline.js" defer></script>
-            <script src="../assets/js/flickity.pkgd.min.js" defer></script>
-            <script src="../assets/js/lazysizes.min.js" defer></script>
-            <script src="../assets/js/lightbox.js" defer></script>
-            <script src="../assets/js/lightbox.js" defer></script>
-            <script src="../assets/js/aos.js" defer></script>
-            <script src="../assets/js/jquery.counterup.min.js" defer></script>
-            <script src="../assets/js/scripts.js" defer></script></body>
-    
-    
-    </html>
+        </section>
+@endsection
